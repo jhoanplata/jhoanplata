@@ -28,7 +28,7 @@
 <h2>GitHub Stats</h2>
 <p> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhoanplata&layout=compact" /> </p>
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=jhoanplataissues&hide=show_icons=true" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=jhoanplata&hide=stars,issues&show_icons=true" /></p>
 
 <p> <img src="https://github-profile-trophy.vercel.app/?username=jhoanplata&title=Joined2020,Repositories,PullRequest,Commits" alt="jhoanplata" /></p>
 
