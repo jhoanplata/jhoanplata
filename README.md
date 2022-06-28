@@ -32,7 +32,11 @@
 
 <p> <img src="https://github-profile-trophy.vercel.app/?username=jhoanplata&title=Joined2020,Repositories,PullRequest,Commits" alt="jhoanplata" /></p>
 
+[![jhoan actividad](https://activity-graph.herokuapp.com/graph?username=jhoanplata&theme=github)](https://github.com/jhoanplata/github-readme-activity-graph)
+
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
+
+
 
