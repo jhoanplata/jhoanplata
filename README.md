@@ -8,7 +8,7 @@
 
 - 🌱 &nbsp;I'm currently learning everything
 
-- 🥅 &nbsp;2022 Goals: graduate engineering
+- 🥅 &nbsp;2023 Goals: graduate engineering
 
 
 
