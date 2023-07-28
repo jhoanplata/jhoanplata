@@ -1,14 +1,13 @@
 # Hi, I'm Jhoan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
 
-<h3>Student of electronic engineering</h3>
+<h3>Electronic engineer</h3>
 
-- 🔭&nbsp; I’m currently studying at udes
+- 🔭&nbsp; I’m recently graduated
 
 - 👀 &nbsp;I am interested in continuing to learn more about different programming languages every day.
 
 - 🌱 &nbsp;I'm currently learning everything
 
-- 🥅 &nbsp;2023 Goals: graduate engineering
 
 
 
