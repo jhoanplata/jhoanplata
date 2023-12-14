@@ -2,11 +2,11 @@
 
 <h3>Electronic engineer</h3>
 
-- 🔭&nbsp; I’m recently graduated
+- 💼&nbsp; I'm currently working at Intelecto as a functional support consultant
 
 - 👀 &nbsp;I am interested in continuing to learn more about different programming languages every day.
 
-- 🌱 &nbsp;I'm currently learning everything
+- 🌱 &nbsp;I'm currently learning Dynamics 365
 
 
 
