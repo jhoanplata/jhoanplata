@@ -2,11 +2,12 @@
 
 <h3>Electronic engineer</h3>
 
-- 💼&nbsp; I'm currently working at Intelecto as a functional support consultant
+- 💼&nbsp; I'm currently working at Intelecto as a functional support consultant with the following tools: Power Apps, Power Platform, Power BI, SQL developer, SQL server, SharePoint, Postman, Azure DevOps, D365 and F&O, Helppeople ticket platform
 
-- 👀 &nbsp;I am interested in continuing to learn more about different programming languages every day.
+- 👀 &nbsp;I'm interested in continuing to learn more about different programming languages and tools every day.
 
-- 🌱 &nbsp;I'm currently learning Dynamics 365 F&O and Power Platform
+- 🌱 &nbsp;I'm currently taking dynamics 365 courses to seek to obtain a certification
+
 
 
 
